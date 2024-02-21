@@ -1,2 +1,2 @@
 # mxr-phase-100
-Implementation of digital MXR phase 100 pedal modeling
+Digital modeling of MXR phase 100 pedal
